@@ -1,0 +1,4 @@
+julcsi
+string
+szia
+vagyok
